@@ -50,7 +50,7 @@
     height: 42px;
     width: 42px;
     line-height: 42px;
-    font-family: "montserrat-regular", sans-serif;
+    font-family: font-family: 'Merriweather', serif;
     font-size: 1.4rem;
     text-transform: uppercase;
     letter-spacing: .2rem;
@@ -129,7 +129,7 @@
     transform: rotate(225deg);
 }
 .header-nav-wrap {
-    font-family: 'Noto Serif', serif;
+    font-family: font-family: 'Merriweather', serif;
     font-size: 11px;
     text-transform: uppercase;
     letter-spacing: .25rem;
@@ -157,13 +157,13 @@
     line-height: 72px;
     color: #ffffff;
     text-decoration: none;
-    font-weight: 600;
+    font-size: 13px;
 }
 
 .header-nav li.current a {
-    font-size: 14px;
-    font-weight: 1000;
-    color: rgb(255, 222, 0);
+    font-size: 16px;
+    font-weight: bold;
+    color: rgb(255, 138, 0);
 }
 
 

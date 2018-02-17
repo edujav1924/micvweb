@@ -1318,7 +1318,7 @@
   border-radius: 0.1875rem;
   padding: 11px 22px;
   cursor: pointer;
-  background-color: #4d1a8f;
+  background-color: rgb(255, 138, 0);
   color: #FFFFFF;
 }
 
@@ -5106,7 +5106,7 @@ Created using IcoMoon - icomoon.io
 .section {
   padding: 72px 5px;
   position: relative;
-  background: rgb(218, 217, 222);
+  background: rgb(93, 93, 93);
 }
 
 .section .row + .category {
